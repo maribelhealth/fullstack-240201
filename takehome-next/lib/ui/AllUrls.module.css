@@ -1,0 +1,15 @@
+.grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 16px;
+    justify-items: center;
+}
+
+.gridHeader {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.gridCell {
+    white-space: nowrap;
+}
